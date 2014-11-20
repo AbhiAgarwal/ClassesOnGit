@@ -1,4 +1,4 @@
 Classes On Git
 ============
 
-- [New York University](nyu.md)
+- [New York University](NYU.md)
