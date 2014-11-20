@@ -1,4 +1,4 @@
-ClassesOnGit
+Classes On Git
 ============
 
-Classes of either students or professors at different universities on Github
+- [New York University](nyu.md)
