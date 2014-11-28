@@ -4,6 +4,7 @@
 
 #### Advanced JavaScript
 
+- https://github.com/advanced-js
 - https://github.com/advanced-js/syllabus (Fall 2014)
 
 #### Intro To Game Programming
