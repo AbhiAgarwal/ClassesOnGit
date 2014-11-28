@@ -6,6 +6,10 @@
 
 - https://github.com/advanced-js/syllabus (Fall 2014)
 
+#### Intro To Game Programming
+
+- https://github.com/ivansafrin/CS3113 (Fall 2014)
+
 #### Creative JavaScript
 
 - https://github.com/lmccart/itp-creative-js (Spring 2014)
