@@ -58,63 +58,63 @@
 
 #### Heuristic Problem Solving
 
-- http://cs.nyu.edu/mishra/COURSES/14.HEUPR/14.heupr.html
+- http://cs.nyu.edu/mishra/COURSES/14.HEUPR/14.heupr.html (Fall 2014)
 
 #### Production Quality Software
 
-- https://sites.google.com/site/pqsfall2014/
+- https://sites.google.com/site/pqsfall2014/ (Fall 2014)
 
 #### Distributed Systems
 
-- http://news.cs.nyu.edu/~jinyang/fa14-ds/
+- http://news.cs.nyu.edu/~jinyang/fa14-ds/ (Fall 2014)
 
 #### Music Software Projects
 
-- http://cs.nyu.edu/courses/fall14/CSCI-GA.3033-003/
+- http://cs.nyu.edu/courses/fall14/CSCI-GA.3033-003/ (Fall 2014)
 
 #### Processing Units (GPUs): Architecture and Programming
 
-- http://cs.nyu.edu/courses/fall14/CSCI-GA.3033-004/
+- http://cs.nyu.edu/courses/fall14/CSCI-GA.3033-004/ (Fall 2014)
 
 #### Principles of Software Security
 
-- http://cs.nyu.edu/courses/fall14/CSCI-GA.3033-005/
+- http://cs.nyu.edu/courses/fall14/CSCI-GA.3033-005/ (Fall 2014)
 
 #### Realtime and Big Data Analytics
 
-- http://cs.nyu.edu/courses/fall14/CSCI-GA.3033-006/
+- http://cs.nyu.edu/courses/fall14/CSCI-GA.3033-006/ (Fall 2014)
 
 #### Multiplayer Social Gaming
 
-- https://docs.google.com/document/d/1IYopKyMarGSsJMB_i9nzyZYgGKi_vfYqltu96GshT60/edit?usp=sharing
+- https://docs.google.com/document/d/1IYopKyMarGSsJMB_i9nzyZYgGKi_vfYqltu96GshT60/edit?usp=sharing (Fall 2014)
 
 #### Extreme Design
 
-- http://cs.nyu.edu/courses/fall14/CSCI-GA.3033-008/
+- http://cs.nyu.edu/courses/fall14/CSCI-GA.3033-008/ (Fall 2014)
 
 #### Multicore Processors: Architecture & Programming
 
-- http://cs.nyu.edu/courses/fall14/CSCI-GA.3033-009/
+- http://cs.nyu.edu/courses/fall14/CSCI-GA.3033-009/ (Fall 2014)
 
 #### Virtualization
 
-- http://cs.nyu.edu/courses/fall14/CSCI-GA.3033-010/
+- http://cs.nyu.edu/courses/fall14/CSCI-GA.3033-010/ (Fall 2014)
 
 #### Introduction to Cryptography
 
-- http://www.cims.nyu.edu/~regev/teaching/crypto_fall_2014/
+- http://www.cims.nyu.edu/~regev/teaching/crypto_fall_2014/ (Fall 2014)
 
 #### Honors Operating Systems
 
-- http://www.cs.nyu.edu/~mwalfish/classes/14fa/
+- http://www.cs.nyu.edu/~mwalfish/classes/14fa/ (Fall 2014)
 
 #### Honors Analysis of Algorithms
 
-- http://www.cs.nyu.edu/~khot/CSCI-GA.3520-001-2014.htm
+- http://www.cs.nyu.edu/~khot/CSCI-GA.3520-001-2014.htm (Fall 2014)
 
 #### Advanced JavaScript
 
-- https://github.com/advanced-js
+- https://github.com/advanced-js (Fall 2014)
 - https://github.com/advanced-js/syllabus (Fall 2014)
 
 #### Intro To Game Programming
